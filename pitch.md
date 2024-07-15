@@ -16,3 +16,6 @@
 - Create documentation
 - Create pitch materials
 - Create MVP(s)
+
+## Public Pitch
+- Messaging App designed to extend the security features of iMessage to all platforms to prevent the risk of SMS spoofing.
