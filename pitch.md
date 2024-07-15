@@ -19,6 +19,8 @@
 
 ## Public Pitch
 - Messaging App designed to extend the security features of iMessage to all platforms to prevent the risk of SMS spoofing.
+- Open-Source and Proprietary Software Packages
+- Consulting
 
 ## In the Media, Tech, and Government
 - https://www.cnet.com/news/privacy/researchers-can-attack-mobile-phones-via-spoofed-sms-messages/
